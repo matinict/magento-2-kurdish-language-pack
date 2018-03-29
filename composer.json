@@ -1,0 +1,24 @@
+{
+    "name": "matinict/language-ku_iq",
+    "type": "magento2-language",
+    "description": "Kurdish (Iraqi Kurdistan) language",
+    "version": "1.0.0",
+    "authors": [{
+        "name": "Abdul Magtin",
+        "email": "matinict@gmail.com",
+        "role": "Developer"
+    }] ,
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "require": {
+        "magento/framework": "100.0.*"
+    },
+    "type": "magento2-language",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
